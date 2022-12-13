@@ -1,8 +1,8 @@
 public class nestedLoopPractice4 {
-//    3
-//    3 6
-//    3 6 12
-//    3 6 12 18
+//        3
+//        6 9
+//        12 15 18
+//        21 24 27 30
 
     public static void main(String[] args) {
         int k =1;
